@@ -1,0 +1,36 @@
+{
+  "devices": [
+    {
+      "id": "light-living",
+      "name": "客厅主灯",
+      "type": "light",
+      "room": "客厅",
+      "ip": "192.168.9.151",
+      "token": ""
+    },
+    {
+      "id": "light-bedroom",
+      "name": "卧室台灯",
+      "type": "light",
+      "room": "卧室",
+      "ip": "192.168.9.152",
+      "token": ""
+    },
+    {
+      "id": "purifier-living",
+      "name": "客厅空气净化器",
+      "type": "airpurifier",
+      "room": "客厅",
+      "ip": "192.168.9.150",
+      "token": "62fc6a0729ef7c1d97662d4ab8d75708"
+    },
+    {
+      "id": "plug-desk",
+      "name": "书桌插座",
+      "type": "plug",
+      "room": "书房",
+      "ip": "192.168.9.160",
+      "token": ""
+    }
+  ]
+}
